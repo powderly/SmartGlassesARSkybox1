@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="Theme.Holo.Light.DarkActionBar.Overlay"
+        parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:actionBarStyle">@style/Holo.ActionBar.Overlay</item>
+    </style>
+
+    <style
+        name="Holo.ActionBar.Overlay"
+        parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:displayOptions">showHome|homeAsUp</item>
+        <item name="android:background">@drawable/actionbar_translucent_10</item>
+        <item name="android:icon">@android:color/transparent</item>
+    </style>
+
+</resources>

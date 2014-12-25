@@ -1,0 +1,6 @@
+int raw blur_fragment_shader 0x7f020000
+int raw copy_fragment_shader 0x7f020001
+int raw fog_fragment_shader 0x7f020002
+int raw grey_scale_fragment_shader 0x7f020003
+int raw minimal_vertex_shader 0x7f020004
+int raw sepia_fragment_shader 0x7f020005

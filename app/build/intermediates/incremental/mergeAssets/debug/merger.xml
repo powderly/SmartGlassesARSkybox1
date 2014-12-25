@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\exploded-aar\SkyBox\rajawali\unspecified\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\assets" >
+            <file
+                name="fonts/Roboto-Regular.ttf"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\assets\fonts\Roboto-Regular.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\debug\assets" />
+    </dataSet>
+
+</merger>

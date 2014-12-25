@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\pre-dexed\debug\androidasync-1.1.5-c06e3e17b2e719539e84b3f90785bec308b1dfeb.jar"
+        jar="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\libs\androidasync-1.1.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b61d002793332482196aa03e1a628fc54fa72080"/>
+    <item
+        dex="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-c17eac4a124dc01bcffaaa65a0aa7e20487f7774.jar"
+        jar="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\pre-dexed\debug\gson-2.2.4-752a4694a6e7953de1b9e1ac68ee96a302f761f3.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+    <item
+        dex="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\pre-dexed\debug\classes-b0f57a656e876d82b4dbe67912011dc504961189.jar"
+        jar="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\exploded-aar\SkyBox\rajawali\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4f18a0c69e8d57dcf2575e064614eb282cbf624e"/>
+    <item
+        dex="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-79e42da7c2657068d681cf877be8b4cc06e3cb7a.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\pre-dexed\debug\ion-1.1.5-fa101240ced01f17ad674d5eeb95afc4e98d9294.jar"
+        jar="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\libs\ion-1.1.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4ef131026f46c173951c96007eba27764c2835e3"/>
+    <item
+        dex="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\pre-dexed\debug\classes-18e716e3524da58762460cc49f81b6bc3c7308b2.jar"
+        jar="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>

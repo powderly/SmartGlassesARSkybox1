@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Administrator/AndroidStudioProjects/Finals/SkyBox/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/Administrator/AndroidStudioProjects/Finals/SkyBox/app/src/main/res/values/ids.xml -->
+    <eat-comment />
+
+    <item name="md2_fragment_button_death" type="id"/>
+    <item name="md2_fragment_button_loop_all" type="id"/>
+    <item name="md2_fragment_button_salute" type="id"/>
+    <item name="md2_fragment_button_walk" type="id"/>
+    <item name="md2_fragment_button_wave" type="id"/>
+    <!-- From: file:/C:/Users/Administrator/AndroidStudioProjects/Finals/SkyBox/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Smart Eye 2.0</string>
+    <string name="curves_fragment_text_view_curve_types">Cubic Bezier, Linear Bezier, Quadratic Bezier, Catmull Rom, Compound Curve</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="empty"></string>
+    <string name="exception_dialog_message_unknown">Unknown error!</string>
+    <string name="exception_dialog_title">Exception Occurred</string>
+    <string name="fbx_fragment_button_model_by">Model by Sampo Rask</string>
+    <string name="gcode_fragment_by">Model by Terawatt Industries</string>
+    <string name="imageview_user_image">User Image</string>
+    <string name="md2_fragment_button_death">Death</string>
+    <string name="md2_fragment_button_loop_all">Loop All</string>
+    <string name="md2_fragment_button_salute">Salute</string>
+    <string name="md2_fragment_button_walk">Walk</string>
+    <string name="md2_fragment_button_wave">Wave</string>
+    <string name="menu_main_community_stream">Community Stream</string>
+    <string name="menu_main_meet_the_team">Meet The Team</string>
+    <string name="object_picking_fragment">Touch a monkey :)</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="skeletal_animation_blending_button_arm_stretch">ARM STRETCH</string>
+    <string name="skeletal_animation_blending_button_bend">BEND</string>
+    <string name="skeletal_animation_blending_button_idle">IDLE</string>
+    <string name="skeletal_animation_blending_button_walk">WALK</string>
+    <string name="skeletal_animation_blending_created_by">Model by Tiziana Loni. Lame animations by MasDennis.</string>
+    <string name="textview_favorite_beers">Favorite Beers</string>
+    <string name="touch_and_drag_fragment_info">Touch &amp; drag</string>
+    <string name="touch_ripples_fragment_button_touch_me">Touch Me</string>
+    <string name="ui_elements_fragment_text_view_halo_dunia">Halo Dunia!</string>
+    <string name="uniform_distribution_fragment_text_view_info">How to distribute points uniformly along a curve. Useful for constant speed animations. White: original curve. Red: reparametrized curve.</string>
+    <!-- From: file:/C:/Users/Administrator/AndroidStudioProjects/Finals/SkyBox/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="Holo.ActionBar.Overlay" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:displayOptions">showHome|homeAsUp</item>
+        <item name="android:background">@drawable/actionbar_translucent_10</item>
+        <item name="android:icon">@android:color/transparent</item>
+    </style>
+
+    <style name="Theme.Holo.Light.DarkActionBar.Overlay" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:actionBarStyle">@style/Holo.ActionBar.Overlay</item>
+    </style>
+
+</resources>

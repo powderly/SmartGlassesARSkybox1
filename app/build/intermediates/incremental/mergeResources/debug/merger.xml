@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\res" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\exploded-aar\SkyBox\rajawali\unspecified\res" >
+            <file
+                name="blur_fragment_shader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\exploded-aar\SkyBox\rajawali\unspecified\res\raw\blur_fragment_shader.glsl"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="copy_fragment_shader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\exploded-aar\SkyBox\rajawali\unspecified\res\raw\copy_fragment_shader.glsl"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="fog_fragment_shader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\exploded-aar\SkyBox\rajawali\unspecified\res\raw\fog_fragment_shader.glsl"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="grey_scale_fragment_shader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\exploded-aar\SkyBox\rajawali\unspecified\res\raw\grey_scale_fragment_shader.glsl"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="minimal_vertex_shader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\exploded-aar\SkyBox\rajawali\unspecified\res\raw\minimal_vertex_shader.glsl"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="sepia_fragment_shader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\intermediates\exploded-aar\SkyBox\rajawali\unspecified\res\raw\sepia_fragment_shader.glsl"
+                qualifiers=""
+                type="raw" />
+        </source>
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res" >
+            <file
+                name="actionbar_translucent_10"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable\actionbar_translucent_10.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="actionbar_translucent_9"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable\actionbar_translucent_9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="animated_progress"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable\animated_progress.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-hdpi\ic_drawer.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="loader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-hdpi\loader.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="rajawali_outline"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-hdpi\rajawali_outline.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-ldpi\ic_launcher.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="loader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-ldpi\loader.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-mdpi\drawer_shadow.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-mdpi\ic_drawer.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="loader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-mdpi\loader.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="photo_andrewjo"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-mdpi\photo_andrewjo.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="photo_davidtroustine"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-mdpi\photo_davidtroustine.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="photo_dennisippel"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-mdpi\photo_dennisippel.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="photo_ianthomas"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-mdpi\photo_ianthomas.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="photo_jaredwoolston"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-mdpi\photo_jaredwoolston.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="photo_jayweisskopf"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-mdpi\photo_jayweisskopf.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="photo_rajawali3dcommunity"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-mdpi\photo_rajawali3dcommunity.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="amsterdam"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\amsterdam.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="banff"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\banff.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="bangkok"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\bangkok.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="brasilia"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\brasilia.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="capetown"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\capetown.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="eight"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\eight.gif"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="five"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\five.gif"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="four"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\four.gif"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="giphy"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\giphy.gif"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="githublogo"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\githublogo.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="la"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\la.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="lisbon"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\lisbon.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="london"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\london.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="melbourne"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\melbourne.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="negx"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\negx.jpg"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="negx1"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\negx1.jpg"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="negy"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\negy.jpg"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="negy1"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\negy1.jpg"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="negz"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\negz.jpg"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="negz1"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\negz1.jpg"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="nine"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\nine.gif"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="nuuk"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\nuuk.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="one"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\one.gif"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="paris"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\paris.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="posx"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\posx.jpg"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="posx1"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\posx1.jpg"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="posy"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\posy.jpg"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="posy1"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\posy1.jpg"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="posz"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\posz.jpg"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="posz1"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\posz1.jpg"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="seoul"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\seoul.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="seoul2"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\seoul2.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="seven"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\seven.gif"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="six"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\six.gif"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="stockholm"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\stockholm.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="stockholmweather"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\stockholmweather.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="stockweather"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\stockweather.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="stockweather2"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\stockweather2.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="stockweather3"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\stockweather3.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="stockweather4"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\stockweather4.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="three"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\three.gif"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="two"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\two.gif"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-xhdpi\drawer_shadow.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-xhdpi\ic_drawer.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="loader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-xhdpi\loader.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="loader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-xxhdpi\loader.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="alternative_layout_loader_container"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\layout\alternative_layout_loader_container.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="base_gridview"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\layout\base_gridview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="community_activity"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\layout\community_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="community_activity_item"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\layout\community_activity_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_child_item"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\layout\drawer_list_child_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_group_item"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\layout\drawer_list_group_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="meet_the_team"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\layout\meet_the_team.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="meet_the_team_list_item"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\layout\meet_the_team_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="rajawali_fragment"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\layout\rajawali_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="relative_layout_loader_container"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\layout\relative_layout_loader_container.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="base_gridview"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\layout-sw600dp\base_gridview.xml"
+                qualifiers="sw600dp-v13"
+                type="layout" />
+            <file
+                name="meet_the_team"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\layout-sw600dp\meet_the_team.xml"
+                qualifiers="sw600dp-v13"
+                type="layout" />
+            <file
+                name="menu_main"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\menu\menu_main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="soundnight"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\raw\soundnight.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="soundstockholm"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\raw\soundstockholm.mp3.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\values\ids.xml"
+                qualifiers="" >
+                <item
+                    name="md2_fragment_button_wave"
+                    type="id"/>
+                <item
+                    name="md2_fragment_button_salute"
+                    type="id"/>
+                <item
+                    name="md2_fragment_button_loop_all"
+                    type="id"/>
+                <item
+                    name="md2_fragment_button_walk"
+                    type="id"/>
+                <item
+                    name="md2_fragment_button_death"
+                    type="id"/>
+            </file>
+            <file
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="fbx_fragment_button_model_by" >Model by Sampo Rask
+                </string>
+                <string name="ui_elements_fragment_text_view_halo_dunia" >Halo Dunia!
+                </string>
+                <string name="menu_main_meet_the_team" >Meet The Team
+                </string>
+                <string name="object_picking_fragment" >Touch a monkey :)
+                </string>
+                <string name="placeholder" >Placeholder
+                </string>
+                <string name="imageview_user_image" >User Image
+                </string>
+                <string name="curves_fragment_text_view_curve_types" >Cubic Bezier, Linear Bezier, Quadratic Bezier, Catmull Rom, Compound Curve
+                </string>
+                <string name="skeletal_animation_blending_button_walk" >WALK
+                </string>
+                <string name="exception_dialog_title" >Exception Occurred
+                </string>
+                <string name="textview_favorite_beers" >Favorite Beers
+                </string>
+                <string name="skeletal_animation_blending_button_arm_stretch" >ARM STRETCH
+                </string>
+                <string name="skeletal_animation_blending_created_by" >Model by Tiziana Loni. Lame animations by MasDennis.
+                </string>
+                <string name="md2_fragment_button_loop_all" >Loop All
+                </string>
+                <string name="empty" ></string>
+                <string name="menu_main_community_stream" >Community Stream
+                </string>
+                <string name="gcode_fragment_by" >Model by Terawatt Industries
+                </string>
+                <string name="touch_and_drag_fragment_info" >Touch &amp; drag
+                </string>
+                <string name="md2_fragment_button_death" >Death
+                </string>
+                <string name="md2_fragment_button_salute" >Salute
+                </string>
+                <string name="exception_dialog_message_unknown" >Unknown error!
+                </string>
+                <string name="touch_ripples_fragment_button_touch_me" >Touch Me
+                </string>
+                <string name="drawer_close" >Close navigation drawer
+                </string>
+                <string name="uniform_distribution_fragment_text_view_info" >How to distribute points uniformly along a curve. Useful for constant speed animations. White: original curve. Red: reparametrized curve.
+                </string>
+                <string name="md2_fragment_button_walk" >Walk
+                </string>
+                <string name="skeletal_animation_blending_button_idle" >IDLE
+                </string>
+                <string name="app_name" >Smart Eye 2.0
+                </string>
+                <string name="drawer_open" >Open navigation drawer
+                </string>
+                <string name="skeletal_animation_blending_button_bend" >BEND
+                </string>
+                <string name="md2_fragment_button_wave" >Wave
+                </string>
+            </file>
+            <file
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="Holo.ActionBar.Overlay"
+                    parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse" >
+                    <item name="android:displayOptions">
+showHome|homeAsUp
+                    </item>
+                    <item name="android:background">
+@drawable/actionbar_translucent_10
+                    </item>
+                    <item name="android:icon">
+@android:color/transparent
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.Holo.Light.DarkActionBar.Overlay"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+                    <item name="android:windowActionBarOverlay">
+true
+                    </item>
+                    <item name="android:actionBarStyle">
+@style/Holo.ActionBar.Overlay
+                    </item>
+                </style>
+            </file>
+            <file
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="stadium"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\raw\stadium.mp2"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="snegz"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\snegz.jpg"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="snegz2"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\drawable-nodpi\snegz2.jpg"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="mthree"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\main\res\raw\mthree.mp4"
+                qualifiers=""
+                type="raw" />
+        </source>
+        <source path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\generated\res\rs\debug" />
+        <source path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\app\src\debug\res" />
+    </dataSet>
+
+</merger>

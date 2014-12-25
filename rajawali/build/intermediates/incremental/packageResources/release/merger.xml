@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\rajawali\res" >
+            <file
+                name="blur_fragment_shader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\rajawali\res\raw\blur_fragment_shader.glsl"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="copy_fragment_shader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\rajawali\res\raw\copy_fragment_shader.glsl"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="fog_fragment_shader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\rajawali\res\raw\fog_fragment_shader.glsl"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="grey_scale_fragment_shader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\rajawali\res\raw\grey_scale_fragment_shader.glsl"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="minimal_vertex_shader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\rajawali\res\raw\minimal_vertex_shader.glsl"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="sepia_fragment_shader"
+                path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\rajawali\res\raw\sepia_fragment_shader.glsl"
+                qualifiers=""
+                type="raw" />
+        </source>
+        <source path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\rajawali\build\generated\res\rs\release" />
+        <source path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\rajawali\build\generated\res\generated\release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Users\Administrator\AndroidStudioProjects\Finals\SkyBox\rajawali\src\release\res" />
+    </dataSet>
+
+</merger>
